@@ -1,0 +1,193 @@
+{
+    "movies":
+    [
+    {
+        "movieImg":"img/m1.jpg",
+        "movieTitle":"Bhuj",
+        "movieDescription":"Bhuj is a movie based out of a novel and the lead actors here is Ajay devgn",
+        "movieCategory":"Friday releases"
+    },
+    {
+        "movieImg":"img/m2.jpg",
+        "movieTitle":"Bhoot Police",
+        "movieDescription":"Bhoot Police is a horror movie and actors here are Saif Ali khan and Arjun Kapoor",
+        "movieCategory":"Friday releases"
+    },
+    {
+        "movieImg":"img/m3.jpg",
+        "movieTitle":"Angrezi Medium",
+        "movieDescription":"Angrezi Medium is a movie based on the challenges of the English language faced by many Indians from samll towns",
+        "movieCategory":"Friday releases"
+    },
+    {
+        "movieImg":"img/m4.jpg",
+        "movieTitle":"Badhai Ho",
+        "movieDescription":"Badhai Ho is a movie with a lot comedy where the story revolves around a middle class Delhi family dealing with society's pressures",
+        "movieCategory":"Friday releases"
+    },
+    {
+        "movieImg":"img/m5.jfif",
+        "movieTitle":"Baaghi 3",
+        "movieDescription":"Baaghi 3 is an action movie where the lead character is played by Tiger Shroff",
+        "movieCategory":"Friday releases"
+    },
+    {
+        "movieImg":"img/m6.jpg",
+        "movieTitle":"Malefiscent",
+        "movieDescription":"Malefiscent is an english movies revolving around mysterious events, the lead role is played by Angelina Jolie",
+        "movieCategory":"Friday releases"
+    },
+    {
+        "movieImg":"img/m7.jpg",
+        "movieTitle":"India's Most Wanted",
+        "movieDescription":"India's Most Wanted is a spy movie and the lead character is played by Arhun Kapoor and it is absed on true events",
+        "movieCategory":"Friday releases"
+    },
+    {
+        "movieImg":"img/m8.png",
+        "movieTitle":"M.S. Dhoni",
+        "movieDescription":"M.S. Dhoni is a biopic on the life of Indian cricket star M.S Dhoni the struggles he had to go through to reach the pinnacle, played by Sushant Singh",
+        "movieCategory":"Friday releases"
+    },
+    {
+        "movieImg":"img/m9.jpg",
+        "movieTitle":"The Empire",
+        "movieDescription":"The Empire is drama series based on the period where the mughal empire was ruling most parts of India",
+        "movieCategory":"Friday releases"
+    },
+    {
+        "movieImg":"img/m10.jpg",
+        "movieTitle":"Loki",
+        "movieDescription":"Loki is another franchise of the Marvel series where the lead actor Jared Leto plays the mythical character Loki",
+        "movieCategory":"Friday releases"
+    },
+    {
+        "movieImg":"img/m11.png",
+        "movieTitle":"Wizard Z",
+        "movieDescription":"Wizard Z is another franchise of the Marvel series where a young girl discovers the enoromous power she has and she copes with the new responisiblity",
+        "movieCategory":"Friday releases"
+    },
+    {
+        "movieImg":"img/m12.jpg",
+        "movieTitle":"Super Girl",
+        "movieDescription":"Super Girl is a movie based on the challenges of the English language faced by many Indians from samll towns",
+        "movieCategory":"Friday releases"
+    },
+    {
+        "movieImg":"img/coming1.jpg",
+        "movieTitle":"The Dark Knight",
+        "movieDescription":"The Dark Knight is movie part of the Batman trilogy lead actor is ben affleck and directed by Cristopher",
+        "movieCategory":"Coming Soon"
+    },
+    {
+        "movieImg":"img/coming2.jpg",
+        "movieTitle":"Hunter Killer",
+        "movieDescription":"The Hunter Killer is a thriller movie part of the olympus has fallen franchise and is one of the top imdb rated films",
+        "movieCategory":"Coming Soon"
+    },
+    {
+        "movieImg":"img/coming3.jpg",
+        "movieTitle":"Bloodshot",
+        "movieDescription":"Blood Shot is an upcoming action starrer Vin diesel who shot up to fame after the fast and furious series",
+        "movieCategory":"Coming Soon"
+    },{
+        "movieImg":"img/coming4.jpg",
+        "movieTitle":"Stranger Things",
+        "movieDescription":"Stranger Things is a famous sci-fi tv seires and is one of the most antisipated series of all time followed by millions",
+        "movieCategory":"Coming Soon"
+    },{
+        "movieImg":"img/coming5.jpg",
+        "movieTitle":"Over The Moon",
+        "movieDescription":"Over the moon is an rom-com animated series it is directed by the famous director steven speilsberg",
+        "movieCategory":"Coming Soon"
+    },{
+        "movieImg":"img/coming6.jpeg",
+        "movieTitle":"Dragon Ball Z",
+        "movieDescription":"Dragon Ball Z is karate special action series about the Goku and it is one of the most antisipated series of all time followed by millions",
+        "movieCategory":"Coming Soon"
+    },{
+        "movieImg":"img/coming7.jpg",
+        "movieTitle":"Captain Marvel",
+        "movieDescription":"Captain Marvel is a superwomen film part of the marvel franchise and is one of the most antisipated series of all time followed by millions",
+        "movieCategory":"Coming Soon"
+    },{
+        "movieImg":"img/coming8.jpg",
+        "movieTitle":"Black Widow",
+        "movieDescription":"Black widow is a superwomen film part of the marvel franchise and is one of the most antisipated series of all time followed by millions",
+        "movieCategory":"Coming Soon"
+    },{
+        "movieImg":"img/coming9.jpg",
+        "movieTitle":"The Ant Man",
+        "movieDescription":"The Ant man is a superhero film of the marvel franchise and is one of the most antisipated series of all time followed by millions",
+        "movieCategory":"Coming Soon"
+    },{
+        "movieImg":"img/coming10.jpg",
+        "movieTitle":"Guardians of the galaxy",
+        "movieDescription":"Guaridans of the galaxy is a sci-fi film part of the marvel franchise and is one of the most antisipated series of all time followed by millions",
+        "movieCategory":"Coming Soon"
+    },
+    {
+        "movieImg":"img/coming11.jfif",
+        "movieTitle":"Closure",
+        "movieDescription":"Love, fierce chemistry, trust and a breach. Struggling with understanding their relationship, Ria finally finds closure.",
+        "movieCategory":"Coming Soon"
+    },
+    {
+        "movieImg":"img/coming12.jfif",
+        "movieTitle":"JetLag",
+        "movieDescription":"When four friends go a trip to Thailand their fun trip takes a turn for the worst and their true personalites come out",
+        "movieCategory":"Coming Soon"
+    },
+    {
+        "movieImg":"img/top9.jfif",
+        "movieTitle":"One Time",
+        "movieDescription":"One time is all time classic movie which forces the viewers to introspect the society and their own thoughts",
+        "movieCategory":"Top Rated"
+    },{
+        "movieImg":"img/top10.jfif",
+        "movieTitle":"Arjun Reddy",
+        "movieDescription":"Arjun Reddy is a very popular telugu movie which show the life of a doctor that has a bad breakup and his struggles to find sanity again",
+        "movieCategory":"Top Rated"
+    },{
+        "movieImg":"img/top3.jfif",
+        "movieTitle":"Baby",
+        "movieDescription":"Baby is a famous spy movie with Akshay kumar playing the lead role as an agent in pakistan",
+        "movieCategory":"Top Rated"
+    },{
+        "movieImg":"img/top4.png",
+        "movieTitle":"Chaddi",
+        "movieDescription":"Chaddi is a very deep movie about how people are influenced by propoganda and how their actions are a product of neural hacking",
+        "movieCategory":"Top Rated"
+    },{
+        "movieImg":"img/top5.jfif",
+        "movieTitle":"Super 30",
+        "movieDescription":"Super 30 is an inspirational film about how a teacher faces all odds to overcome his wish to train underprivileged children to the IIT",
+        "movieCategory":"Top Rated"
+    },{
+        "movieImg":"img/top6.jfif",
+        "movieTitle":"Geeta Govindam",
+        "movieDescription":"Geeta Govindam is romantic and funny movie starring Vijay and Rashmika as the lead actors",
+        "movieCategory":"Top Rated"
+    },{
+        "movieImg":"img/top7.jfif",
+        "movieTitle":"The Big Bull",
+        "movieDescription":"The Big Bull is a biopic about the famous stock market king Harshad mehta how was part of major scam of money laundring in 1992",
+        "movieCategory":"Top Rated"
+    },{
+        "movieImg":"img/top8.jfif",
+        "movieTitle":"Luca",
+        "movieDescription":"Luca is a very deep movie about how people are influenced by propoganda and how their actions are a product of neural hacking",
+        "movieCategory":"Top Rated"
+    },{
+        "movieImg":"img/top1.jfif",
+        "movieTitle":"Chhichhore",
+        "movieDescription":"Chhichhore is a movie that tackles the pressure of getting into IIT and how many succumb to it and take the wrong step feeling helpless",
+        "movieCategory":"Top Rated"
+    },{
+        "movieImg":"img/top2.jfif",
+        "movieTitle":"Raid",
+        "movieDescription":"Raid is based on the real life raid of 1997 where several politicals were raided and crores of black money was recovered",
+        "movieCategory":"Top Rated"
+    }
+    ]
+}
