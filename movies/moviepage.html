@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Black Phone</title>
+    <link rel="stylesheet" href="style2.css">
+    <link rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+</head>
+<body>
+    <header>
+        <a href="#" class="logo"><i class="bx bxs-camera-movie">
+        </i>StreamNow</a>
+        <div class="toggle"><a href="../index.html"><img src="../movies/arrow-back-regular-24.png" alt=""></a></div>
+    </header>
+    <div class="banner">
+        <div class="content">
+            <h2><span>The Black Phone</span></h2>
+            <p>Director Scott Derrickson returns to his terror roots and partners again with the foremost brand in the genre, Blumhouse, with a new horror thriller. 
+                Finney Shaw, a shy but clever 13-year-old boy, is abducted by a sadistic killer and trapped in a soundproof basement where screaming is of little use. When a disconnected phone on the wall begins to ring, Finney discovers that he can hear the voices of the killer’s previous victims. And they are dead set on making sure that what happened to them doesn’t happen to Finney.
+                Starring four-time Oscar® nominee Ethan Hawke in the most terrifying role of his career and introducing Mason Thames in his first ever film role. </p>
+                <a href="#" class="play" onclick="toggle()"><img src="../movies/play.png" alt="Watch Now">Watch Now</a>
+        </div>
+    </div>
+    <div class="trailer">
+        <video src="The Black Phone - Official Trailer.mp4" controls="true"></video>
+        <img src="close.png" alt="Close" onclick="toggle()" class="close">
+    </div>
+    <script>
+        function toggle(){
+            var trailer = document.querySelector('.trailer');
+            let video = document.querySelector('video');
+            trailer.classList.toggle('active');
+            video.currentTime = 0;
+            video.pause();
+        }
+    </script>
+</body>
+</html>
